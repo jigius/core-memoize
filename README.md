@@ -1,2 +1,2 @@
-# core-memoize
-Data memoizing. Interface and trivial in-memory implementation.
+# Data memoizing
+Interface and trivial in-memory implementation.

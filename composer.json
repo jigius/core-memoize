@@ -1,0 +1,21 @@
+{
+    "name": "jigius/core-memoize",
+    "description": "Interface Memoize and a simple in-memory implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jigius",
+            "email": "jigius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\Memoize\\": "src/"
+        }
+    }
+}
